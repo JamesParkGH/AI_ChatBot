@@ -1,0 +1,23 @@
+{
+  "name": "deepseek-ai-assistant-web",
+  "version": "1.0.0",
+  "description": "A modern web-based chat interface for DeepSeek AI Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "deepseek",
+    "web",
+    "chat",
+    "assistant"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
